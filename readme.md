@@ -59,3 +59,4 @@ FarmSense aims to:
 ✔ Promote sustainable farming
 ✔ Minimize pesticide overuse
 ✔ Support data-driven agriculture
+https://github.com/Keerthana-007191/farmsense-ai
